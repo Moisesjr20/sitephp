@@ -1,0 +1,60 @@
+<div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4" id="jscss1">
+                <a href="img/artistatodo.png"><img src='img/artistaDivulga.PNG' class="img-responsive">
+                    <div class="txtpainel">
+                        <h3><b>Você Artista!</b></h3>
+                        <p><b>Divulgue suas Obras!</b></p>
+                    </div>
+                </a>
+            </div>
+            <hr>
+            <div class="col-md-4" id="jscss2">
+                <a href="img/blogenergiatodo.png"><img src="img/blogenergiaDivulga.PNG" class="img-responsive">
+                    <div class="txtpainel">
+                        <h3><b> Você Bloguiero!</b></h3>
+                        <p><b>Divulgue seus conteúdos!</b></p>
+                    </div>
+                </a>
+            </div>
+            <hr>
+            <div class="col-md-4" id="jscss3">
+                <a href="img/futeboltodo.png"><img src="img/futebolDivulga.PNG" class="img-responsive">
+                    <div class="txtpainel">
+                        <h3><b> Você Racheiro!</b></h3>
+                        <p><b>Divulgue seu campo!</b></p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-4" id="jscss4">
+                <a href="sites/paroquia/index.html"><img src="img/paroquia.PNG" class="img-responsive">
+                    <div class="txtpainel">
+                        <h3><b>Você Padre ou Pastor!</b></h3>
+                        <p><b>Divulgue as obras, pregações, avisos e calendarios anuais!</b></p>
+                    </div>
+                </a>
+            </div>
+            <hr>
+            <div class="col-md-4" id="jscss5">
+                <a href="img/padariatodo.png"><img src="img/padariaDivulga.PNG" class="img-responsive">
+                    <div class="txtpainel">
+                        <h3><b>Você Padeiro!</b></h3>
+                        <p><b>Divulgue suas delicías!</b></p>
+                    </div>
+                </a>
+            </div>
+            <hr>
+            <div class="col-md-4" id="jscss6">
+                <a href="img/agenciaviagemtodo.png"><img src="img/agenciaviagemDivulga.png" class="img-responsive">
+                    <div class="txtpainel">
+                        <h3><b>Você Artista!</b></h3>
+                        <p><b>Divulgue suas Obras!</b></p>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
